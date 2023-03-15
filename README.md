@@ -38,7 +38,7 @@ Step 4: Start the API by
 npm start
 ```
 
-## Author
+## Credit-
 
 - [**Truly Mittal**](https://trulymittal.com)
 
